@@ -101,14 +101,14 @@
         "collection-0": {
           "type": "collection",
           "settings": {
-            "collection": ""
+            "collection": "frontpage"
           }
         },
         "product": {
           "type": "product",
           "settings": {
-            "product": "",
-            "second_image": false
+            "product": "example-t-shirt",
+            "second_image": true
           }
         },
         "collection-1": {
